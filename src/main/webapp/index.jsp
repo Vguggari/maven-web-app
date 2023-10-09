@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='grey'> Welcome to GUGGARI IT - Software Training Institute <font></h1>
+<h1><font color='black'> Welcome to GUGGARI IT - Software Training Institute <font></h1>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See GUGGARI IT Training Schedules</a>
   
